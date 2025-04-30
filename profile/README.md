@@ -1,6 +1,6 @@
 # The AI-Mighty
 
-![A small but mighty viking](images/mighty-avatar-small.png)
+![A small but mighty viking](mighty-avatar-small.png)
 
 *In the digital lands where giants roam, there emerged a small but mighty viking...*
 
